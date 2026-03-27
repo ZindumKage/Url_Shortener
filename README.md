@@ -120,5 +120,3 @@ Future Improvements
 	•	Deployment (Vercel and Render)
 	•	Redis cache hit/miss tracking
 
-⸻
-**
